@@ -33,6 +33,8 @@ Where All GUI based performance testing is performed also to make test cases(.jm
 In GUI mode load testing is not recommended because it can consume a lot of CPU and memory unlike CLI mode.
 The GUI console is excellent for running a small load and developing and/or debugging your script.
 
+![JMeter's GUI Window!](https://static.wixstatic.com/media/955d13_0e66ee2f34c242cfa25f1e3607705a9c~mv2.png "JMeter")
+
 ## CLI (Command Line Interface) Mode: -
 CLI mode is best to run heavy load testing
 To use CLI mode, open your terminal, navigate to “jmeter.bat” file folder.
